@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="LinkedinTestSuit" verbose="1" >
+
+<listeners>
+		<listener class-name="com.qa.extentReport.ExtentReporterNG" />
+	</listeners>
+  
+  <test name="InsuranceDekhoTestSuite"   >
+    <classes>
+      <class name="com.qa.TestPages.HomePageTest" />
+   </classes>
+ </test>
+</suite>

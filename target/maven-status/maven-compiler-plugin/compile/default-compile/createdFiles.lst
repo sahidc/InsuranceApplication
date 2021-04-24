@@ -1,0 +1,11 @@
+com\qa\utility\TestUtil1.class
+cm\qa\Pages\HealthInsurancePage.class
+com\qa\base\BaseClass.class
+com\qa\ReadDataUtility\Xls_Reader.class
+cm\qa\Pages\LifeInsurancePage.class
+cm\qa\Pages\NewsPage.class
+cm\qa\Pages\HomePage.class
+com\qa\utility\TestUtil2.class
+com\qa\extentReport\ExtentReporterNG.class
+cm\qa\Pages\CarInsurancePage.class
+cm\qa\Pages\TwoWheelerInsurancePage.class
